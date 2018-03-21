@@ -14,7 +14,7 @@ in terminal or cmd type
 ```
 python downloader.py
 ```
-![hotstar](https://github.com/IAmBlackHacker/Video-Downloader/downloader.png)
+![hotstar](https://github.com/IAmBlackHacker/Video-Downloader/blob/master/downloader.png)
 
 ### Support
 * [Hotstar](http://www.hotstar.com) - Supported premium videos too
