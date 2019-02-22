@@ -54,5 +54,5 @@ if r.status_code==200:
 	else:
 		os.system('livestreamer '+manifest_url+' '+choice+' -o "'+jsonData.get('title','default')+'.mp4"')
 else:
-	print('Contact 8419027520 for errors !')
+	print('Contact https://www.facebook.com/B14CKH4K3R/inbox/ for errors !')
 
