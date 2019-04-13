@@ -1,6 +1,8 @@
 # Video Downloader
 This script for download videos from anywhere and live streaming on vlc player
 
+## if in case of script not working, use this link(https://www.cpclips.com/hotstar-video-downloader/)
+
 ### Prerequisites
 * [Python 3.x](https://www.python.org/downloads/release/python-364/)
 * [Livestreamer](https://www.videohelp.com/software/livestreamer)
