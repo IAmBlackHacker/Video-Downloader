@@ -6,9 +6,10 @@ from selenium.webdriver.support import expected_conditions as EC
 
 browser_url = ""
 print("------ Video Stream Downloader ------")
-print("Supported sites: hotstar,")
+print("Supported sites:")
+print("1. Hotstar - Supports to download all videos. just you need to get premium account in order to download premium videos")
 browser_url = input("\nEnter video url: ")
-print("Once browser start play video then download will start")
+print("Once the browser will start playing video then your download will start")
 print("-------------------------------------")
 
 browser = webdriver.Chrome(ChromeDriverManager().install())
